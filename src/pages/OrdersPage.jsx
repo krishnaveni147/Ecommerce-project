@@ -1,4 +1,4 @@
-import { Header } from './components/Header';
+//import { Header } from 'src/components/Header';
 import './OrdersPage.css';
 
 export function OrdersPage() {
@@ -6,7 +6,7 @@ export function OrdersPage() {
     return (
         
         <>
-        <Header/>
+       
             <div className="header">
                 <div className="left-section">
                     <a href="/" className="header-link">

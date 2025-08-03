@@ -1,7 +1,7 @@
 import { Link } from 'react-router';
-import './header.css';
+import './Header.css';
 
-export function Header() {
+ export function Header() {
   return (
     <div className="header">
       <div className="left-section">
@@ -36,3 +36,4 @@ export function Header() {
     </div>
   );
 }
+ 
